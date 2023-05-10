@@ -1,2 +1,2 @@
 # mtm6201-week1
-Demo for week 1
+First week demo repository for Web Dev II.
